@@ -20,17 +20,3 @@ This project aims to build a robust data pipeline that:
 1. Extracts data from various sources.
 2. Processes the extracted data.
 3. Loads the processed data into a target database.
-
-## Project Structure
-
-```plaintext
-.
-├── dags
-│   └── data_pipeline_dag.py
-├── scripts
-│   ├── data_extraction.py
-│   ├── data_processing.py
-│   └── data_loading.py
-├── docker-compose.yml
-├── requirements.txt
-└── README.md
