@@ -2,17 +2,6 @@
 
 This project implements an end-to-end data pipeline for extracting, processing, and loading data using Python and Apache Airflow. Docker is used to manage dependencies and services.
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-- [Project Structure](#project-structure)
-- [Prerequisites](#prerequisites)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Airflow Configuration](#airflow-configuration)
-- [Docker](#docker)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Project Overview
 
